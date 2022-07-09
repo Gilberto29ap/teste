@@ -1,0 +1,25 @@
+#title, .sub, .t2 {
+    color: blue;
+}
+
+.t2{
+    font-size: x-large;
+}
+
+body{
+    background-color: gray;
+    margin-left:    3%;
+    margin-right:   3%;
+}
+
+.img{
+    width: 100%;
+}
+
+.post{
+    background-color: beige;
+    padding: 10px;
+    border: 10px solid  black;
+    margin: 10px;
+    text-align: center;
+}
